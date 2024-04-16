@@ -18,6 +18,9 @@ WHEN I choose to cancel
 THEN my employee data is displayed on the page sorted alphabetically by last name, and the console shows computed and aggregated data.
 
 ## Images of the website:
+![Employee](https://github.com/fabianmedina3012/Professional-Portofolio/assets/164245084/812c870a-67bb-4899-8db2-df32e8349b8d)
+![Employee1](https://github.com/fabianmedina3012/Professional-Portofolio/assets/164245084/1554d4a0-845c-4a04-8f7d-26ab8fcfc091)
+![Employee2](https://github.com/fabianmedina3012/Professional-Portofolio/assets/164245084/6510f85b-3bfb-4a9a-9d64-05303aa8c223)
 
 
 ## Link to URL
